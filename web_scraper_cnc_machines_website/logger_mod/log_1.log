@@ -1,0 +1,469 @@
+2025-03-16 10:34:05,727 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 10:34:06,140 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 10:34:12,846 - CNCProductScraper - INFO - loading the html...
+2025-03-16 10:35:37,305 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 10:35:38,485 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 10:35:44,395 - CNCProductScraper - INFO - loading the html...
+2025-03-16 10:37:23,948 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 10:37:25,105 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 10:37:31,462 - CNCProductScraper - INFO - loading the html...
+2025-03-16 10:37:31,548 - CNCProductScraper - INFO - Loading the HTML...
+2025-03-16 10:38:15,554 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 10:38:15,909 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 10:38:21,344 - CNCProductScraper - INFO - loading the html...
+2025-03-16 10:39:26,054 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 10:39:27,017 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 10:39:33,190 - CNCProductScraper - INFO - loading the html...
+2025-03-16 10:40:24,604 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 10:40:25,564 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 10:40:30,761 - CNCProductScraper - INFO - loading the html...
+2025-03-16 10:44:58,948 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 10:45:00,251 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 10:45:06,375 - CNCProductScraper - INFO - loading the html...
+2025-03-16 10:46:18,466 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 10:46:18,857 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 10:46:25,147 - CNCProductScraper - INFO - loading the html...
+2025-03-16 10:48:02,220 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 10:48:02,583 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 10:48:08,395 - CNCProductScraper - INFO - loading the html...
+2025-03-16 15:14:19,548 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 15:14:21,023 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 15:14:34,470 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:14:34,640 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/fadal-vmc4525-2024/l/12246
+2025-03-16 15:14:34,676 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/fadal-vmc4020-2024/l/11557
+2025-03-16 15:14:34,714 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/tongtai-sh4000p-2024/l/11063
+2025-03-16 15:14:34,788 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-ec400-2023/l/12654
+2025-03-16 15:14:34,825 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf4ss-2023/l/12591
+2025-03-16 15:14:34,859 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc500-2023/l/12581
+2025-03-16 15:14:34,908 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/tormach-1100mx-2023/l/12546
+2025-03-16 15:14:34,942 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc350hd-2023/l/12440
+2025-03-16 15:14:34,975 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf2yt-2023/l/12237
+2025-03-16 15:14:35,022 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc750ss-2023/l/11597
+2025-03-16 15:14:35,058 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-tm1p-2023/l/10679
+2025-03-16 15:14:35,091 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/flex-cnc-fb-50-24-2023/l/10292
+2025-03-16 15:14:35,130 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/okuma-genos-m560v-2022/l/12597
+2025-03-16 15:14:35,175 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/trak-tmc7-2022/l/12541
+2025-03-16 15:14:35,227 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/okuma-genos-m460ve-2022/l/12534
+2025-03-16 15:14:35,277 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc500ss-2022/l/12385
+2025-03-16 15:14:35,317 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-mynx5400-50-2022/l/12347
+2025-03-16 15:14:35,367 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/tormach-1100mx-2022/l/12330
+2025-03-16 15:14:35,475 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/tormach-1100mx-2022/l/12257
+2025-03-16 15:14:35,524 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-gm2-5x-2022/l/12247
+2025-03-16 15:14:35,566 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf5-40xt-2022/l/12169
+2025-03-16 15:14:35,582 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:15:05,745 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:15:05,843 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc750ss-2022/l/12168
+2025-03-16 15:15:05,884 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/okuma-genos-m660v-2022/l/12118
+2025-03-16 15:15:05,918 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf2ss-2022/l/12038
+2025-03-16 15:15:05,949 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/tormach-770mx-2022/l/11840
+2025-03-16 15:15:05,983 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-dvf6500-2022/l/11548
+2025-03-16 15:15:06,005 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-dnm5700s-2022/l/11496
+2025-03-16 15:15:06,045 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf3-2022/l/11455
+2025-03-16 15:15:06,083 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/smart-sv2-2022/l/11283
+2025-03-16 15:15:06,110 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/okuma-genos-m560v-2022/l/10970
+2025-03-16 15:15:06,150 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/brother-speedio-m200x3-2022/l/10963
+2025-03-16 15:15:06,182 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/toyoda-fh5000si-2022/l/10604
+2025-03-16 15:15:06,206 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/dmg-mori-seiki-dmf180-linear-2022/l/10390
+2025-03-16 15:15:06,246 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/milltronics-trm3016-2022/l/9746
+2025-03-16 15:15:06,284 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc750-2022/l/9120
+2025-03-16 15:15:06,310 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vmt750-2022/l/7944
+2025-03-16 15:15:06,349 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf6-2021/l/12698
+2025-03-16 15:15:06,383 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-dm2-2021/l/12696
+2025-03-16 15:15:06,413 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf2ss-2021/l/12695
+2025-03-16 15:15:06,452 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-dvf-5000-2021/l/12508
+2025-03-16 15:15:06,484 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-dm2-2021/l/12461
+2025-03-16 15:15:06,516 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf6ss-2021/l/12276
+2025-03-16 15:15:06,534 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:16:10,108 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 15:16:11,456 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 15:16:29,536 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:16:29,737 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/fadal-vmc4525-2024/l/12246
+2025-03-16 15:16:29,778 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/fadal-vmc4020-2024/l/11557
+2025-03-16 15:16:29,812 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/tongtai-sh4000p-2024/l/11063
+2025-03-16 15:16:29,847 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-ec400-2023/l/12654
+2025-03-16 15:16:29,880 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf4ss-2023/l/12591
+2025-03-16 15:16:29,931 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc500-2023/l/12581
+2025-03-16 15:16:29,971 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/tormach-1100mx-2023/l/12546
+2025-03-16 15:16:30,077 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc350hd-2023/l/12440
+2025-03-16 15:16:30,111 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf2yt-2023/l/12237
+2025-03-16 15:16:30,132 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc750ss-2023/l/11597
+2025-03-16 15:16:30,165 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-tm1p-2023/l/10679
+2025-03-16 15:16:30,182 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/flex-cnc-fb-50-24-2023/l/10292
+2025-03-16 15:16:30,226 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/okuma-genos-m560v-2022/l/12597
+2025-03-16 15:16:30,260 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/trak-tmc7-2022/l/12541
+2025-03-16 15:16:30,296 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/okuma-genos-m460ve-2022/l/12534
+2025-03-16 15:16:30,325 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc500ss-2022/l/12385
+2025-03-16 15:16:30,350 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-mynx5400-50-2022/l/12347
+2025-03-16 15:16:30,382 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/tormach-1100mx-2022/l/12330
+2025-03-16 15:16:30,415 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/tormach-1100mx-2022/l/12257
+2025-03-16 15:16:30,448 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-gm2-5x-2022/l/12247
+2025-03-16 15:16:30,472 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf5-40xt-2022/l/12169
+2025-03-16 15:16:30,489 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:16:40,631 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:16:40,721 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc750ss-2022/l/12168
+2025-03-16 15:16:40,752 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/okuma-genos-m660v-2022/l/12118
+2025-03-16 15:16:40,794 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf2ss-2022/l/12038
+2025-03-16 15:16:40,827 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/tormach-770mx-2022/l/11840
+2025-03-16 15:16:40,861 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-dvf6500-2022/l/11548
+2025-03-16 15:16:40,897 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-dnm5700s-2022/l/11496
+2025-03-16 15:16:40,942 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf3-2022/l/11455
+2025-03-16 15:16:40,978 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/smart-sv2-2022/l/11283
+2025-03-16 15:16:41,011 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/okuma-genos-m560v-2022/l/10970
+2025-03-16 15:16:41,043 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/brother-speedio-m200x3-2022/l/10963
+2025-03-16 15:16:41,088 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/toyoda-fh5000si-2022/l/10604
+2025-03-16 15:16:41,127 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/dmg-mori-seiki-dmf180-linear-2022/l/10390
+2025-03-16 15:16:41,160 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/milltronics-trm3016-2022/l/9746
+2025-03-16 15:16:41,198 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc750-2022/l/9120
+2025-03-16 15:16:41,227 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vmt750-2022/l/7944
+2025-03-16 15:16:41,266 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf6-2021/l/12698
+2025-03-16 15:16:41,308 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-dm2-2021/l/12696
+2025-03-16 15:16:41,342 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf2ss-2021/l/12695
+2025-03-16 15:16:41,383 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-dvf-5000-2021/l/12508
+2025-03-16 15:16:41,410 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-dm2-2021/l/12461
+2025-03-16 15:16:41,458 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf6ss-2021/l/12276
+2025-03-16 15:16:41,475 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:16:51,573 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:16:51,677 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/tormach-pcnc440-2021/l/12182
+2025-03-16 15:16:51,709 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/brother-s300x2-2021/l/12137
+2025-03-16 15:16:51,749 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf11-2021/l/11979
+2025-03-16 15:16:51,789 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-nhp4000-2021/l/11975
+2025-03-16 15:16:51,830 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf4ss-2021/l/11956
+2025-03-16 15:16:51,857 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/hermle-c22u-2021/l/11935
+2025-03-16 15:16:51,906 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf2ss-2021/l/11927
+2025-03-16 15:16:51,940 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/datron-m8-2021/l/11784
+2025-03-16 15:16:51,975 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/okuma-genos-m560v-2021/l/11452
+2025-03-16 15:16:52,009 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-mini-mill-2-2021/l/11311
+2025-03-16 15:16:52,041 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/dmg-mori-seiki-dmc-125u-duoblock-2021/l/11260
+2025-03-16 15:16:52,089 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-hc-400ii-2021/l/11094
+2025-03-16 15:16:52,125 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/trak-tmc7-2021/l/10999
+2025-03-16 15:16:52,172 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-nhp4000-2021/l/10946
+2025-03-16 15:16:52,209 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/smart-nx5000-2021/l/10939
+2025-03-16 15:16:52,241 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/smart-nx5000-2021/l/10938
+2025-03-16 15:16:52,277 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf2ss-2021/l/10923
+2025-03-16 15:16:52,322 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf2ss-2021/l/10756
+2025-03-16 15:16:52,357 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/syil-x7-2021/l/10279
+2025-03-16 15:16:52,390 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/hurco-vm10i-2021/l/9968
+2025-03-16 15:16:52,424 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/brother-r450x2-2021/l/9726
+2025-03-16 15:16:52,446 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:17:02,546 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:17:02,654 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf2ssyt-2021/l/9467
+2025-03-16 15:17:02,705 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/makino-da300-2021/l/9308
+2025-03-16 15:17:02,738 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/brother-s500x2-2021/l/9013
+2025-03-16 15:17:02,770 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc500ss-2021/l/7786
+2025-03-16 15:17:02,799 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/american-machinery-c4-2021/l/5968
+2025-03-16 15:17:02,838 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf4ss-2020/l/12681
+2025-03-16 15:17:02,870 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf2-2020/l/12521
+2025-03-16 15:17:02,887 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/tormach-pcnc440-2020/l/12501
+2025-03-16 15:17:02,932 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-vc430-2020/l/12459
+2025-03-16 15:17:02,966 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf4ss-2020/l/12421
+2025-03-16 15:17:02,995 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc500ss-2020/l/12052
+2025-03-16 15:17:03,031 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/elumatec-sbz-140-2020/l/11954
+2025-03-16 15:17:03,113 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-tm1p-2020/l/11938
+2025-03-16 15:17:03,144 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc500ss-2020/l/11855
+2025-03-16 15:17:03,179 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/hurco-vm20i-2020/l/11706
+2025-03-16 15:17:03,205 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vc400-2020/l/11685
+2025-03-16 15:17:03,244 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-tm2-2020/l/11675
+2025-03-16 15:17:03,277 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf4ss-2020/l/11346
+2025-03-16 15:17:03,305 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/tormach-1100m-2020/l/11213
+2025-03-16 15:17:03,338 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/toyoda-mcv400f-2020/l/10608
+2025-03-16 15:17:03,370 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-dnm4500-2020/l/10127
+2025-03-16 15:17:03,380 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:17:13,476 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:17:13,587 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/fryer-mb14q-2020/l/8370
+2025-03-16 15:17:13,624 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-nhp5000-2019/l/12557
+2025-03-16 15:17:13,667 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc750ss-2019/l/12502
+2025-03-16 15:17:13,714 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf4ss-2019/l/12418
+2025-03-16 15:17:13,749 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-dnm5700-2019/l/12389
+2025-03-16 15:17:13,792 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/okuma-genos-m560v-2019/l/12171
+2025-03-16 15:17:13,828 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/fanuc-robodrill-a-d21-lia5-2019/l/12133
+2025-03-16 15:17:13,867 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/dmg-mori-seiki-nvx7000-50-2019/l/11943
+2025-03-16 15:17:13,899 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/hurco-vm20i-2019/l/11912
+2025-03-16 15:17:13,934 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/makino-v80s-2019/l/11868
+2025-03-16 15:17:13,967 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/mikron-hsm500-2019/l/11758
+2025-03-16 15:17:14,000 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc1000-2019/l/11345
+2025-03-16 15:17:14,052 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-dvf-5000-2019/l/11139
+2025-03-16 15:17:14,085 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/mazak-vc300a-2019/l/11020
+2025-03-16 15:17:14,119 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/toshiba-btd-13fr22-2019/l/10733
+2025-03-16 15:17:14,157 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-ec400pp-2019/l/10623
+2025-03-16 15:17:14,186 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/cnc-masters-tabletop-mill-2019/l/9880
+2025-03-16 15:17:14,218 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/doosan-dnm4000-2019/l/9704
+2025-03-16 15:17:14,257 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-umc1000-2019/l/9594
+2025-03-16 15:17:14,286 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/okuma-mf-46v-2019/l/9565
+2025-03-16 15:17:14,324 - CNCProductScraper - INFO - Extracted: N/A - https://cncmachines.com/haas-vf4-2019/l/9197
+2025-03-16 15:17:14,334 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:17:35,355 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 15:17:35,724 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 15:17:55,660 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:17:55,832 - CNCProductScraper - INFO - Extracted: FADAL VMC4525 - https://cncmachines.com/fadal-vmc4525-2024/l/12246
+2025-03-16 15:17:55,897 - CNCProductScraper - INFO - Extracted: FADAL VMC4020 - https://cncmachines.com/fadal-vmc4020-2024/l/11557
+2025-03-16 15:17:55,963 - CNCProductScraper - INFO - Extracted: TONGTAI SH4000P - https://cncmachines.com/tongtai-sh4000p-2024/l/11063
+2025-03-16 15:17:56,028 - CNCProductScraper - INFO - Extracted: HAAS EC400 - https://cncmachines.com/haas-ec400-2023/l/12654
+2025-03-16 15:17:56,085 - CNCProductScraper - INFO - Extracted: HAAS VF4SS - https://cncmachines.com/haas-vf4ss-2023/l/12591
+2025-03-16 15:17:56,144 - CNCProductScraper - INFO - Extracted: HAAS UMC500 - https://cncmachines.com/haas-umc500-2023/l/12581
+2025-03-16 15:17:56,199 - CNCProductScraper - INFO - Extracted: TORMACH 1100MX - https://cncmachines.com/tormach-1100mx-2023/l/12546
+2025-03-16 15:17:56,256 - CNCProductScraper - INFO - Extracted: HAAS UMC350HD - https://cncmachines.com/haas-umc350hd-2023/l/12440
+2025-03-16 15:17:56,328 - CNCProductScraper - INFO - Extracted: HAAS VF2YT - https://cncmachines.com/haas-vf2yt-2023/l/12237
+2025-03-16 15:17:56,398 - CNCProductScraper - INFO - Extracted: HAAS UMC750SS - https://cncmachines.com/haas-umc750ss-2023/l/11597
+2025-03-16 15:17:56,451 - CNCProductScraper - INFO - Extracted: HAAS TM1P - https://cncmachines.com/haas-tm1p-2023/l/10679
+2025-03-16 15:17:56,513 - CNCProductScraper - INFO - Extracted: FLEX CNC FB-50-24 - https://cncmachines.com/flex-cnc-fb-50-24-2023/l/10292
+2025-03-16 15:17:56,581 - CNCProductScraper - INFO - Extracted: OKUMA GENOS M560V - https://cncmachines.com/okuma-genos-m560v-2022/l/12597
+2025-03-16 15:17:56,644 - CNCProductScraper - INFO - Extracted: TRAK TMC7 - https://cncmachines.com/trak-tmc7-2022/l/12541
+2025-03-16 15:17:56,720 - CNCProductScraper - INFO - Extracted: OKUMA GENOS M460VE - https://cncmachines.com/okuma-genos-m460ve-2022/l/12534
+2025-03-16 15:17:56,785 - CNCProductScraper - INFO - Extracted: HAAS UMC500SS - https://cncmachines.com/haas-umc500ss-2022/l/12385
+2025-03-16 15:17:56,826 - CNCProductScraper - INFO - Extracted: DOOSAN MYNX5400-50 - https://cncmachines.com/doosan-mynx5400-50-2022/l/12347
+2025-03-16 15:17:56,875 - CNCProductScraper - INFO - Extracted: TORMACH 1100MX - https://cncmachines.com/tormach-1100mx-2022/l/12330
+2025-03-16 15:17:56,915 - CNCProductScraper - INFO - Extracted: TORMACH 1100MX - https://cncmachines.com/tormach-1100mx-2022/l/12257
+2025-03-16 15:17:56,965 - CNCProductScraper - INFO - Extracted: HAAS GM2 5X - https://cncmachines.com/haas-gm2-5x-2022/l/12247
+2025-03-16 15:17:57,006 - CNCProductScraper - INFO - Extracted: HAAS VF5-40XT - https://cncmachines.com/haas-vf5-40xt-2022/l/12169
+2025-03-16 15:17:57,023 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:18:07,137 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:18:07,265 - CNCProductScraper - INFO - Extracted: FADAL VMC4525 - https://cncmachines.com/fadal-vmc4525-2024/l/12246
+2025-03-16 15:18:07,322 - CNCProductScraper - INFO - Extracted: FADAL VMC4020 - https://cncmachines.com/fadal-vmc4020-2024/l/11557
+2025-03-16 15:18:07,388 - CNCProductScraper - INFO - Extracted: TONGTAI SH4000P - https://cncmachines.com/tongtai-sh4000p-2024/l/11063
+2025-03-16 15:18:07,437 - CNCProductScraper - INFO - Extracted: HAAS EC400 - https://cncmachines.com/haas-ec400-2023/l/12654
+2025-03-16 15:18:07,494 - CNCProductScraper - INFO - Extracted: HAAS VF4SS - https://cncmachines.com/haas-vf4ss-2023/l/12591
+2025-03-16 15:18:07,559 - CNCProductScraper - INFO - Extracted: HAAS UMC500 - https://cncmachines.com/haas-umc500-2023/l/12581
+2025-03-16 15:18:07,619 - CNCProductScraper - INFO - Extracted: TORMACH 1100MX - https://cncmachines.com/tormach-1100mx-2023/l/12546
+2025-03-16 15:18:07,688 - CNCProductScraper - INFO - Extracted: HAAS UMC350HD - https://cncmachines.com/haas-umc350hd-2023/l/12440
+2025-03-16 15:18:07,738 - CNCProductScraper - INFO - Extracted: HAAS VF2YT - https://cncmachines.com/haas-vf2yt-2023/l/12237
+2025-03-16 15:18:07,803 - CNCProductScraper - INFO - Extracted: HAAS UMC750SS - https://cncmachines.com/haas-umc750ss-2023/l/11597
+2025-03-16 15:18:07,860 - CNCProductScraper - INFO - Extracted: HAAS TM1P - https://cncmachines.com/haas-tm1p-2023/l/10679
+2025-03-16 15:18:07,919 - CNCProductScraper - INFO - Extracted: FLEX CNC FB-50-24 - https://cncmachines.com/flex-cnc-fb-50-24-2023/l/10292
+2025-03-16 15:18:07,968 - CNCProductScraper - INFO - Extracted: OKUMA GENOS M560V - https://cncmachines.com/okuma-genos-m560v-2022/l/12597
+2025-03-16 15:18:08,033 - CNCProductScraper - INFO - Extracted: TRAK TMC7 - https://cncmachines.com/trak-tmc7-2022/l/12541
+2025-03-16 15:18:08,094 - CNCProductScraper - INFO - Extracted: OKUMA GENOS M460VE - https://cncmachines.com/okuma-genos-m460ve-2022/l/12534
+2025-03-16 15:18:08,139 - CNCProductScraper - INFO - Extracted: HAAS UMC500SS - https://cncmachines.com/haas-umc500ss-2022/l/12385
+2025-03-16 15:18:08,213 - CNCProductScraper - INFO - Extracted: DOOSAN MYNX5400-50 - https://cncmachines.com/doosan-mynx5400-50-2022/l/12347
+2025-03-16 15:18:08,270 - CNCProductScraper - INFO - Extracted: TORMACH 1100MX - https://cncmachines.com/tormach-1100mx-2022/l/12330
+2025-03-16 15:18:08,327 - CNCProductScraper - INFO - Extracted: TORMACH 1100MX - https://cncmachines.com/tormach-1100mx-2022/l/12257
+2025-03-16 15:18:08,386 - CNCProductScraper - INFO - Extracted: HAAS GM2 5X - https://cncmachines.com/haas-gm2-5x-2022/l/12247
+2025-03-16 15:18:08,436 - CNCProductScraper - INFO - Extracted: HAAS VF5-40XT - https://cncmachines.com/haas-vf5-40xt-2022/l/12169
+2025-03-16 15:18:08,488 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:18:18,681 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:18:18,799 - CNCProductScraper - INFO - Extracted: HAAS UMC750SS - https://cncmachines.com/haas-umc750ss-2022/l/12168
+2025-03-16 15:18:18,846 - CNCProductScraper - INFO - Extracted: OKUMA GENOS M660V - https://cncmachines.com/okuma-genos-m660v-2022/l/12118
+2025-03-16 15:18:18,885 - CNCProductScraper - INFO - Extracted: HAAS VF2SS - https://cncmachines.com/haas-vf2ss-2022/l/12038
+2025-03-16 15:18:18,948 - CNCProductScraper - INFO - Extracted: TORMACH 770MX - https://cncmachines.com/tormach-770mx-2022/l/11840
+2025-03-16 15:18:19,002 - CNCProductScraper - INFO - Extracted: DOOSAN DVF6500 - https://cncmachines.com/doosan-dvf6500-2022/l/11548
+2025-03-16 15:18:19,053 - CNCProductScraper - INFO - Extracted: DOOSAN DNM5700S - https://cncmachines.com/doosan-dnm5700s-2022/l/11496
+2025-03-16 15:18:19,109 - CNCProductScraper - INFO - Extracted: HAAS VF3 - https://cncmachines.com/haas-vf3-2022/l/11455
+2025-03-16 15:18:19,152 - CNCProductScraper - INFO - Extracted: SMART SV2 - https://cncmachines.com/smart-sv2-2022/l/11283
+2025-03-16 15:18:19,208 - CNCProductScraper - INFO - Extracted: OKUMA GENOS M560V - https://cncmachines.com/okuma-genos-m560v-2022/l/10970
+2025-03-16 15:18:19,253 - CNCProductScraper - INFO - Extracted: BROTHER SPEEDIO M200X3 - https://cncmachines.com/brother-speedio-m200x3-2022/l/10963
+2025-03-16 15:18:19,301 - CNCProductScraper - INFO - Extracted: TOYODA FH5000SI - https://cncmachines.com/toyoda-fh5000si-2022/l/10604
+2025-03-16 15:18:19,353 - CNCProductScraper - INFO - Extracted: DMG MORI SEIKI DMF180 LINEAR - https://cncmachines.com/dmg-mori-seiki-dmf180-linear-2022/l/10390
+2025-03-16 15:18:19,401 - CNCProductScraper - INFO - Extracted: MILLTRONICS TRM3016 - https://cncmachines.com/milltronics-trm3016-2022/l/9746
+2025-03-16 15:18:19,452 - CNCProductScraper - INFO - Extracted: HAAS UMC750 - https://cncmachines.com/haas-umc750-2022/l/9120
+2025-03-16 15:18:19,500 - CNCProductScraper - INFO - Extracted: HAAS VMT750 - https://cncmachines.com/haas-vmt750-2022/l/7944
+2025-03-16 15:18:19,548 - CNCProductScraper - INFO - Extracted: HAAS VF6 - https://cncmachines.com/haas-vf6-2021/l/12698
+2025-03-16 15:18:19,652 - CNCProductScraper - INFO - Extracted: HAAS DM2 - https://cncmachines.com/haas-dm2-2021/l/12696
+2025-03-16 15:18:19,701 - CNCProductScraper - INFO - Extracted: HAAS VF2SS - https://cncmachines.com/haas-vf2ss-2021/l/12695
+2025-03-16 15:18:19,750 - CNCProductScraper - INFO - Extracted: DOOSAN DVF 5000 - https://cncmachines.com/doosan-dvf-5000-2021/l/12508
+2025-03-16 15:18:19,786 - CNCProductScraper - INFO - Extracted: HAAS DM2 - https://cncmachines.com/haas-dm2-2021/l/12461
+2025-03-16 15:18:19,840 - CNCProductScraper - INFO - Extracted: HAAS VF6SS - https://cncmachines.com/haas-vf6ss-2021/l/12276
+2025-03-16 15:18:19,859 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:18:29,963 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:18:30,066 - CNCProductScraper - INFO - Extracted: TORMACH PCNC440 - https://cncmachines.com/tormach-pcnc440-2021/l/12182
+2025-03-16 15:18:30,099 - CNCProductScraper - INFO - Extracted: BROTHER S300X2 - https://cncmachines.com/brother-s300x2-2021/l/12137
+2025-03-16 15:18:30,136 - CNCProductScraper - INFO - Extracted: HAAS VF11 - https://cncmachines.com/haas-vf11-2021/l/11979
+2025-03-16 15:18:30,182 - CNCProductScraper - INFO - Extracted: DOOSAN NHP4000 - https://cncmachines.com/doosan-nhp4000-2021/l/11975
+2025-03-16 15:18:30,218 - CNCProductScraper - INFO - Extracted: HAAS VF4SS - https://cncmachines.com/haas-vf4ss-2021/l/11956
+2025-03-16 15:18:30,258 - CNCProductScraper - INFO - Extracted: HERMLE C22U - https://cncmachines.com/hermle-c22u-2021/l/11935
+2025-03-16 15:18:30,298 - CNCProductScraper - INFO - Extracted: HAAS VF2SS - https://cncmachines.com/haas-vf2ss-2021/l/11927
+2025-03-16 15:18:30,331 - CNCProductScraper - INFO - Extracted: DATRON M8 - https://cncmachines.com/datron-m8-2021/l/11784
+2025-03-16 15:18:30,371 - CNCProductScraper - INFO - Extracted: OKUMA GENOS M560V - https://cncmachines.com/okuma-genos-m560v-2021/l/11452
+2025-03-16 15:18:30,414 - CNCProductScraper - INFO - Extracted: HAAS MINI MILL 2 - https://cncmachines.com/haas-mini-mill-2-2021/l/11311
+2025-03-16 15:18:30,452 - CNCProductScraper - INFO - Extracted: DMG MORI SEIKI DMC 125U DUOBLOCK - https://cncmachines.com/dmg-mori-seiki-dmc-125u-duoblock-2021/l/11260
+2025-03-16 15:18:30,484 - CNCProductScraper - INFO - Extracted: DOOSAN HC-400II - https://cncmachines.com/doosan-hc-400ii-2021/l/11094
+2025-03-16 15:18:30,531 - CNCProductScraper - INFO - Extracted: TRAK TMC7 - https://cncmachines.com/trak-tmc7-2021/l/10999
+2025-03-16 15:18:30,583 - CNCProductScraper - INFO - Extracted: DOOSAN NHP4000 - https://cncmachines.com/doosan-nhp4000-2021/l/10946
+2025-03-16 15:18:30,618 - CNCProductScraper - INFO - Extracted: SMART NX5000 - https://cncmachines.com/smart-nx5000-2021/l/10939
+2025-03-16 15:18:30,651 - CNCProductScraper - INFO - Extracted: SMART NX5000 - https://cncmachines.com/smart-nx5000-2021/l/10938
+2025-03-16 15:18:30,701 - CNCProductScraper - INFO - Extracted: HAAS VF2SS - https://cncmachines.com/haas-vf2ss-2021/l/10923
+2025-03-16 15:18:30,735 - CNCProductScraper - INFO - Extracted: HAAS VF2SS - https://cncmachines.com/haas-vf2ss-2021/l/10756
+2025-03-16 15:18:30,783 - CNCProductScraper - INFO - Extracted: SYIL X7 - https://cncmachines.com/syil-x7-2021/l/10279
+2025-03-16 15:18:30,831 - CNCProductScraper - INFO - Extracted: HURCO VM10I - https://cncmachines.com/hurco-vm10i-2021/l/9968
+2025-03-16 15:18:30,878 - CNCProductScraper - INFO - Extracted: BROTHER R450X2 - https://cncmachines.com/brother-r450x2-2021/l/9726
+2025-03-16 15:18:30,898 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:18:41,023 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:18:41,266 - CNCProductScraper - INFO - Extracted: TORMACH PCNC440 - https://cncmachines.com/tormach-pcnc440-2021/l/12182
+2025-03-16 15:18:41,342 - CNCProductScraper - INFO - Extracted: BROTHER S300X2 - https://cncmachines.com/brother-s300x2-2021/l/12137
+2025-03-16 15:18:41,403 - CNCProductScraper - INFO - Extracted: HAAS VF11 - https://cncmachines.com/haas-vf11-2021/l/11979
+2025-03-16 15:18:41,458 - CNCProductScraper - INFO - Extracted: DOOSAN NHP4000 - https://cncmachines.com/doosan-nhp4000-2021/l/11975
+2025-03-16 15:18:41,528 - CNCProductScraper - INFO - Extracted: HAAS VF4SS - https://cncmachines.com/haas-vf4ss-2021/l/11956
+2025-03-16 15:18:41,598 - CNCProductScraper - INFO - Extracted: HERMLE C22U - https://cncmachines.com/hermle-c22u-2021/l/11935
+2025-03-16 15:18:41,652 - CNCProductScraper - INFO - Extracted: HAAS VF2SS - https://cncmachines.com/haas-vf2ss-2021/l/11927
+2025-03-16 15:18:41,698 - CNCProductScraper - INFO - Extracted: DATRON M8 - https://cncmachines.com/datron-m8-2021/l/11784
+2025-03-16 15:18:41,745 - CNCProductScraper - INFO - Extracted: OKUMA GENOS M560V - https://cncmachines.com/okuma-genos-m560v-2021/l/11452
+2025-03-16 15:18:41,788 - CNCProductScraper - INFO - Extracted: HAAS MINI MILL 2 - https://cncmachines.com/haas-mini-mill-2-2021/l/11311
+2025-03-16 15:18:41,827 - CNCProductScraper - INFO - Extracted: DMG MORI SEIKI DMC 125U DUOBLOCK - https://cncmachines.com/dmg-mori-seiki-dmc-125u-duoblock-2021/l/11260
+2025-03-16 15:18:41,870 - CNCProductScraper - INFO - Extracted: DOOSAN HC-400II - https://cncmachines.com/doosan-hc-400ii-2021/l/11094
+2025-03-16 15:18:41,912 - CNCProductScraper - INFO - Extracted: TRAK TMC7 - https://cncmachines.com/trak-tmc7-2021/l/10999
+2025-03-16 15:18:41,945 - CNCProductScraper - INFO - Extracted: DOOSAN NHP4000 - https://cncmachines.com/doosan-nhp4000-2021/l/10946
+2025-03-16 15:18:41,999 - CNCProductScraper - INFO - Extracted: SMART NX5000 - https://cncmachines.com/smart-nx5000-2021/l/10939
+2025-03-16 15:18:42,036 - CNCProductScraper - INFO - Extracted: SMART NX5000 - https://cncmachines.com/smart-nx5000-2021/l/10938
+2025-03-16 15:18:42,078 - CNCProductScraper - INFO - Extracted: HAAS VF2SS - https://cncmachines.com/haas-vf2ss-2021/l/10923
+2025-03-16 15:18:42,127 - CNCProductScraper - INFO - Extracted: HAAS VF2SS - https://cncmachines.com/haas-vf2ss-2021/l/10756
+2025-03-16 15:18:42,169 - CNCProductScraper - INFO - Extracted: SYIL X7 - https://cncmachines.com/syil-x7-2021/l/10279
+2025-03-16 15:18:42,219 - CNCProductScraper - INFO - Extracted: HURCO VM10I - https://cncmachines.com/hurco-vm10i-2021/l/9968
+2025-03-16 15:18:42,269 - CNCProductScraper - INFO - Extracted: BROTHER R450X2 - https://cncmachines.com/brother-r450x2-2021/l/9726
+2025-03-16 15:18:42,286 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:18:52,432 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:18:52,576 - CNCProductScraper - INFO - Extracted: HAAS VF2SSYT - https://cncmachines.com/haas-vf2ssyt-2021/l/9467
+2025-03-16 15:18:52,638 - CNCProductScraper - INFO - Extracted: MAKINO DA300 - https://cncmachines.com/makino-da300-2021/l/9308
+2025-03-16 15:18:52,692 - CNCProductScraper - INFO - Extracted: BROTHER S500X2 - https://cncmachines.com/brother-s500x2-2021/l/9013
+2025-03-16 15:18:52,752 - CNCProductScraper - INFO - Extracted: HAAS UMC500SS - https://cncmachines.com/haas-umc500ss-2021/l/7786
+2025-03-16 15:18:52,826 - CNCProductScraper - INFO - Extracted: AMERICAN MACHINERY C4 - https://cncmachines.com/american-machinery-c4-2021/l/5968
+2025-03-16 15:18:52,915 - CNCProductScraper - INFO - Extracted: HAAS VF4SS - https://cncmachines.com/haas-vf4ss-2020/l/12681
+2025-03-16 15:18:53,017 - CNCProductScraper - INFO - Extracted: HAAS VF2 - https://cncmachines.com/haas-vf2-2020/l/12521
+2025-03-16 15:18:53,073 - CNCProductScraper - INFO - Extracted: TORMACH PCNC440 - https://cncmachines.com/tormach-pcnc440-2020/l/12501
+2025-03-16 15:18:53,127 - CNCProductScraper - INFO - Extracted: DOOSAN VC430 - https://cncmachines.com/doosan-vc430-2020/l/12459
+2025-03-16 15:18:53,192 - CNCProductScraper - INFO - Extracted: HAAS VF4SS - https://cncmachines.com/haas-vf4ss-2020/l/12421
+2025-03-16 15:18:53,261 - CNCProductScraper - INFO - Extracted: HAAS UMC500SS - https://cncmachines.com/haas-umc500ss-2020/l/12052
+2025-03-16 15:18:53,542 - CNCProductScraper - INFO - Extracted: ELUMATEC SBZ 140 - https://cncmachines.com/elumatec-sbz-140-2020/l/11954
+2025-03-16 15:18:53,575 - CNCProductScraper - INFO - Extracted: HAAS TM1P - https://cncmachines.com/haas-tm1p-2020/l/11938
+2025-03-16 15:18:53,617 - CNCProductScraper - INFO - Extracted: HAAS UMC500SS - https://cncmachines.com/haas-umc500ss-2020/l/11855
+2025-03-16 15:18:53,717 - CNCProductScraper - INFO - Extracted: HURCO VM20I - https://cncmachines.com/hurco-vm20i-2020/l/11706
+2025-03-16 15:18:53,776 - CNCProductScraper - INFO - Extracted: HAAS VC400 - https://cncmachines.com/haas-vc400-2020/l/11685
+2025-03-16 15:18:53,817 - CNCProductScraper - INFO - Extracted: HAAS TM2 - https://cncmachines.com/haas-tm2-2020/l/11675
+2025-03-16 15:18:53,887 - CNCProductScraper - INFO - Extracted: HAAS VF4SS - https://cncmachines.com/haas-vf4ss-2020/l/11346
+2025-03-16 15:18:53,925 - CNCProductScraper - INFO - Extracted: TORMACH 1100M - https://cncmachines.com/tormach-1100m-2020/l/11213
+2025-03-16 15:18:53,975 - CNCProductScraper - INFO - Extracted: TOYODA MCV400F - https://cncmachines.com/toyoda-mcv400f-2020/l/10608
+2025-03-16 15:18:54,017 - CNCProductScraper - INFO - Extracted: DOOSAN DNM4500 - https://cncmachines.com/doosan-dnm4500-2020/l/10127
+2025-03-16 15:18:54,033 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:19:04,117 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:19:04,215 - CNCProductScraper - INFO - Extracted: FRYER MB14Q - https://cncmachines.com/fryer-mb14q-2020/l/8370
+2025-03-16 15:19:04,264 - CNCProductScraper - INFO - Extracted: DOOSAN NHP5000 - https://cncmachines.com/doosan-nhp5000-2019/l/12557
+2025-03-16 15:19:04,307 - CNCProductScraper - INFO - Extracted: HAAS UMC750SS - https://cncmachines.com/haas-umc750ss-2019/l/12502
+2025-03-16 15:19:04,343 - CNCProductScraper - INFO - Extracted: HAAS VF4SS - https://cncmachines.com/haas-vf4ss-2019/l/12418
+2025-03-16 15:19:04,393 - CNCProductScraper - INFO - Extracted: DOOSAN DNM5700 - https://cncmachines.com/doosan-dnm5700-2019/l/12389
+2025-03-16 15:19:04,457 - CNCProductScraper - INFO - Extracted: OKUMA GENOS M560V - https://cncmachines.com/okuma-genos-m560v-2019/l/12171
+2025-03-16 15:19:04,500 - CNCProductScraper - INFO - Extracted: FANUC ROBODRILL A-D21 LIA5 - https://cncmachines.com/fanuc-robodrill-a-d21-lia5-2019/l/12133
+2025-03-16 15:19:04,544 - CNCProductScraper - INFO - Extracted: DMG MORI SEIKI NVX7000-50 - https://cncmachines.com/dmg-mori-seiki-nvx7000-50-2019/l/11943
+2025-03-16 15:19:04,595 - CNCProductScraper - INFO - Extracted: HURCO VM20I - https://cncmachines.com/hurco-vm20i-2019/l/11912
+2025-03-16 15:19:04,654 - CNCProductScraper - INFO - Extracted: MAKINO V80S - https://cncmachines.com/makino-v80s-2019/l/11868
+2025-03-16 15:19:04,716 - CNCProductScraper - INFO - Extracted: MIKRON HSM500 - https://cncmachines.com/mikron-hsm500-2019/l/11758
+2025-03-16 15:19:04,757 - CNCProductScraper - INFO - Extracted: HAAS UMC1000 - https://cncmachines.com/haas-umc1000-2019/l/11345
+2025-03-16 15:19:04,807 - CNCProductScraper - INFO - Extracted: DOOSAN DVF 5000 - https://cncmachines.com/doosan-dvf-5000-2019/l/11139
+2025-03-16 15:19:04,854 - CNCProductScraper - INFO - Extracted: MAZAK VC300A - https://cncmachines.com/mazak-vc300a-2019/l/11020
+2025-03-16 15:19:04,902 - CNCProductScraper - INFO - Extracted: TOSHIBA BTD 13FR22 - https://cncmachines.com/toshiba-btd-13fr22-2019/l/10733
+2025-03-16 15:19:04,946 - CNCProductScraper - INFO - Extracted: HAAS EC400PP - https://cncmachines.com/haas-ec400pp-2019/l/10623
+2025-03-16 15:19:04,988 - CNCProductScraper - INFO - Extracted: CNC MASTERS TABLETOP MILL - https://cncmachines.com/cnc-masters-tabletop-mill-2019/l/9880
+2025-03-16 15:19:05,034 - CNCProductScraper - INFO - Extracted: DOOSAN DNM4000 - https://cncmachines.com/doosan-dnm4000-2019/l/9704
+2025-03-16 15:19:05,078 - CNCProductScraper - INFO - Extracted: HAAS UMC1000 - https://cncmachines.com/haas-umc1000-2019/l/9594
+2025-03-16 15:19:05,118 - CNCProductScraper - INFO - Extracted: OKUMA MF 46V - https://cncmachines.com/okuma-mf-46v-2019/l/9565
+2025-03-16 15:19:05,166 - CNCProductScraper - INFO - Extracted: HAAS VF4 - https://cncmachines.com/haas-vf4-2019/l/9197
+2025-03-16 15:19:05,190 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:19:15,287 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:19:15,378 - CNCProductScraper - INFO - Extracted: MATSUURA HPLUS 405 - https://cncmachines.com/matsuura-hplus-405-2019/l/9034
+2025-03-16 15:19:15,421 - CNCProductScraper - INFO - Extracted: MAZAK VC300A - https://cncmachines.com/mazak-vc300a-2019/l/8631
+2025-03-16 15:19:15,465 - CNCProductScraper - INFO - Extracted: FANUC ROBODRILL A-D21 LIB5 - https://cncmachines.com/fanuc-robodrill-a-d21-lib5-2019/l/8472
+2025-03-16 15:19:15,511 - CNCProductScraper - INFO - Extracted: HAAS UMC750SS - https://cncmachines.com/haas-umc750ss-2019/l/8216
+2025-03-16 15:19:15,553 - CNCProductScraper - INFO - Extracted: HURCO VMX30I - https://cncmachines.com/hurco-vmx30i-2019/l/7828
+2025-03-16 15:19:15,613 - CNCProductScraper - INFO - Extracted: HAAS VF6SS - https://cncmachines.com/haas-vf6ss-2019/l/6841
+2025-03-16 15:19:15,661 - CNCProductScraper - INFO - Extracted: HAAS UMC750 - https://cncmachines.com/haas-umc750-2018/l/12699
+2025-03-16 15:19:15,704 - CNCProductScraper - INFO - Extracted: MATSUURA MAM72-63V - https://cncmachines.com/matsuura-mam72-63v-2018/l/12622
+2025-03-16 15:19:15,753 - CNCProductScraper - INFO - Extracted: DOOSAN NHM8000 - https://cncmachines.com/doosan-nhm8000-2018/l/12298
+2025-03-16 15:19:15,801 - CNCProductScraper - INFO - Extracted: HAAS UMC750 - https://cncmachines.com/haas-umc750-2018/l/12089
+2025-03-16 15:19:15,854 - CNCProductScraper - INFO - Extracted: DMG MORI SEIKI CMX1100V - https://cncmachines.com/dmg-mori-seiki-cmx1100v-2018/l/11965
+2025-03-16 15:19:15,890 - CNCProductScraper - INFO - Extracted: DECKEL MAHO DMU50 - https://cncmachines.com/deckel-maho-dmu50-2018/l/11934
+2025-03-16 15:19:15,937 - CNCProductScraper - INFO - Extracted: DOOSAN DNM4500 - https://cncmachines.com/doosan-dnm4500-2018/l/11858
+2025-03-16 15:19:15,980 - CNCProductScraper - INFO - Extracted: OKUMA GENOS M460V 5AX - https://cncmachines.com/okuma-genos-m460v-5ax-2018/l/11654
+2025-03-16 15:19:16,020 - CNCProductScraper - INFO - Extracted: BROTHER SPEEDIO R650X1 - https://cncmachines.com/brother-speedio-r650x1-2018/l/11422
+2025-03-16 15:19:16,071 - CNCProductScraper - INFO - Extracted: KIWA KMH300A - https://cncmachines.com/kiwa-kmh300a-2018/l/11351
+2025-03-16 15:19:16,111 - CNCProductScraper - INFO - Extracted: DOOSAN HC400-II - https://cncmachines.com/doosan-hc400-ii-2018/l/11095
+2025-03-16 15:19:16,160 - CNCProductScraper - INFO - Extracted: HAAS UMC750SS - https://cncmachines.com/haas-umc750ss-2018/l/11060
+2025-03-16 15:19:16,204 - CNCProductScraper - INFO - Extracted: FANUC ROBODRILL A-D21 LIB5 - https://cncmachines.com/fanuc-robodrill-a-d21-lib5-2018/l/10895
+2025-03-16 15:19:16,250 - CNCProductScraper - INFO - Extracted: HAAS VF3SS - https://cncmachines.com/haas-vf3ss-2018/l/10800
+2025-03-16 15:19:16,304 - CNCProductScraper - INFO - Extracted: HAAS VM2 - https://cncmachines.com/haas-vm2-2018/l/10611
+2025-03-16 15:19:16,321 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:19:26,427 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:19:26,541 - CNCProductScraper - INFO - Extracted: HAAS VM6 - https://cncmachines.com/haas-vm6-2018/l/10610
+2025-03-16 15:19:26,586 - CNCProductScraper - INFO - Extracted: BRIDGEPORT BRIDGEPORT - https://cncmachines.com/bridgeport-bridgeport-2018/l/10340
+2025-03-16 15:19:26,635 - CNCProductScraper - INFO - Extracted: DOOSAN NHP5000 - https://cncmachines.com/doosan-nhp5000-2018/l/10287
+2025-03-16 15:19:26,685 - CNCProductScraper - INFO - Extracted: BROTHER SPEEDIO S700X1 - https://cncmachines.com/brother-speedio-s700x1-2018/l/10161
+2025-03-16 15:19:26,735 - CNCProductScraper - INFO - Extracted: HAAS UMC750 - https://cncmachines.com/haas-umc750-2018/l/10139
+2025-03-16 15:19:26,787 - CNCProductScraper - INFO - Extracted: BIESSE MATERIA CL3015 - https://cncmachines.com/biesse-materia-cl3015-2018/l/10104
+2025-03-16 15:19:26,835 - CNCProductScraper - INFO - Extracted: ELUMATEC SBZ 140 - https://cncmachines.com/elumatec-sbz-140-2018/l/9453
+2025-03-16 15:19:26,891 - CNCProductScraper - INFO - Extracted: TORMACH 1100M - https://cncmachines.com/tormach-1100m-2018/l/9139
+2025-03-16 15:19:26,937 - CNCProductScraper - INFO - Extracted: HAAS VM2 - https://cncmachines.com/haas-vm2-2018/l/8538
+2025-03-16 15:19:26,992 - CNCProductScraper - INFO - Extracted: FICEP 453 VB CNC DRILLING & SAWING LINE - https://cncmachines.com/ficep-453-vb-cnc-drilling-sawing-line-2018/l/7437
+2025-03-16 15:19:27,050 - CNCProductScraper - INFO - Extracted: FANUC ROBODRILL A-D21 LIB5 - https://cncmachines.com/fanuc-robodrill-a-d21-lib5-2018/l/7378
+2025-03-16 15:19:27,107 - CNCProductScraper - INFO - Extracted: HAAS VF3SS - https://cncmachines.com/haas-vf3ss-2018/l/6362
+2025-03-16 15:19:27,159 - CNCProductScraper - INFO - Extracted: OKUMA GENOS M460V 5AX - https://cncmachines.com/okuma-genos-m460v-5ax-2017/l/12565
+2025-03-16 15:19:27,204 - CNCProductScraper - INFO - Extracted: KIWA KH4500 - https://cncmachines.com/kiwa-kh4500-2017/l/12559
+2025-03-16 15:19:27,251 - CNCProductScraper - INFO - Extracted: KIWA KMH300F008 - https://cncmachines.com/kiwa-kmh300f008-2017/l/12554
+2025-03-16 15:19:27,306 - CNCProductScraper - INFO - Extracted: MAKINO A51NX - https://cncmachines.com/makino-a51nx-2017/l/12488
+2025-03-16 15:19:27,359 - CNCProductScraper - INFO - Extracted: GANESH VMC4020 - https://cncmachines.com/ganesh-vmc4020-2017/l/12238
+2025-03-16 15:19:27,416 - CNCProductScraper - INFO - Extracted: HURCO VMX6050T - https://cncmachines.com/hurco-vmx6050t-2017/l/12159
+2025-03-16 15:19:27,467 - CNCProductScraper - INFO - Extracted: TORMACH PCNC770 - https://cncmachines.com/tormach-pcnc770-2017/l/11933
+2025-03-16 15:19:27,519 - CNCProductScraper - INFO - Extracted: HARDINGE CONQUEST V1000 - https://cncmachines.com/hardinge-conquest-v1000-2017/l/11637
+2025-03-16 15:19:27,575 - CNCProductScraper - INFO - Extracted: HAAS VM3 - https://cncmachines.com/haas-vm3-2017/l/11457
+2025-03-16 15:19:27,593 - CNCProductScraper - INFO - Clicking on 'Next' button to go to the next page...
+2025-03-16 15:23:44,197 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 15:23:45,578 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 15:31:57,300 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 15:31:57,662 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 15:32:08,715 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 15:32:10,707 - CNCProductScraper - INFO - Extracted: FADAL VMC4525 - https://cncmachines.com/fadal-vmc4525-2024/l/12246
+2025-03-16 15:32:10,714 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,723 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,789 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,797 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,837 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,844 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,853 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,853 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,861 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,869 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,877 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,877 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,887 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,896 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,901 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,909 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,909 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,918 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,928 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,936 - CNCProductScraper - ERROR - Error processing card URL and extracting details: ElementHandle.query_selector: Protocol error (DOM.describeNode): Cannot find context with specified id
+2025-03-16 15:32:10,947 - CNCProductScraper - INFO - No 'Next' button found, reached last page.
+2025-03-16 15:36:58,863 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 15:36:59,237 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 15:37:09,020 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 15:37:09,852 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 15:59:25,774 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 16:00:38,849 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 16:03:06,474 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 16:04:25,603 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 16:13:34,308 - CNCProductScraper - INFO - Navigating to https://cncmachines.com/fadal-vmc4525-2024/l/12246
+2025-03-16 16:13:34,308 - CNCProductScraper - INFO - Navigating to https://cncmachines.com/fadal-vmc4525-2024/l/12246
+2025-03-16 16:14:55,402 - CNCProductScraper - INFO - Navigating to https://cncmachines.com/fadal-vmc4525-2024/l/12246
+2025-03-16 16:14:55,402 - CNCProductScraper - INFO - Navigating to https://cncmachines.com/fadal-vmc4525-2024/l/12246
+2025-03-16 16:17:28,897 - CNCProductScraper - INFO - Navigating to https://cncmachines.com/fadal-vmc4525-2024/l/12246
+2025-03-16 16:17:28,897 - CNCProductScraper - INFO - Navigating to https://cncmachines.com/fadal-vmc4525-2024/l/12246
+2025-03-16 16:23:07,839 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 16:23:07,839 - CNCProductScraper - INFO - Launching the browser...
+2025-03-16 16:23:08,254 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 16:23:08,254 - CNCProductScraper - INFO - Navigating to the URL...
+2025-03-16 16:23:18,555 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 16:23:18,555 - CNCProductScraper - INFO - Processing current page...
+2025-03-16 16:23:20,416 - CNCProductScraper - INFO - Navigating to https://cncmachines.com/fadal-vmc4525-2024/l/12246
+2025-03-16 16:23:20,416 - CNCProductScraper - INFO - Navigating to https://cncmachines.com/fadal-vmc4525-2024/l/12246
+2025-03-16 16:23:41,137 - CNCProductScraper - INFO - Data saved to extracted_data.json
+2025-03-16 16:23:41,137 - CNCProductScraper - INFO - Data saved to extracted_data.json
+2025-03-16 16:23:41,137 - CNCProductScraper - INFO - Extracted: FADAL VMC4525 - https://cncmachines.com/fadal-vmc4525-2024/l/12246
+2025-03-16 16:23:41,137 - CNCProductScraper - INFO - Extracted: FADAL VMC4525 - https://cncmachines.com/fadal-vmc4525-2024/l/12246
+2025-03-16 16:23:43,351 - CNCProductScraper - INFO - Navigating to https://cncmachines.com/fadal-vmc4020-2024/l/11557
+2025-03-16 16:23:43,351 - CNCProductScraper - INFO - Navigating to https://cncmachines.com/fadal-vmc4020-2024/l/11557
+2025-03-16 16:24:01,539 - CNCProductScraper - INFO - Data saved to extracted_data.json
+2025-03-16 16:24:01,539 - CNCProductScraper - INFO - Data saved to extracted_data.json
+2025-03-16 16:24:01,539 - CNCProductScraper - INFO - Extracted: FADAL VMC4020 - https://cncmachines.com/fadal-vmc4020-2024/l/11557
+2025-03-16 16:24:01,539 - CNCProductScraper - INFO - Extracted: FADAL VMC4020 - https://cncmachines.com/fadal-vmc4020-2024/l/11557
+2025-03-16 16:24:03,124 - CNCProductScraper - INFO - Navigating to https://cncmachines.com/tongtai-sh4000p-2024/l/11063
+2025-03-16 16:24:03,124 - CNCProductScraper - INFO - Navigating to https://cncmachines.com/tongtai-sh4000p-2024/l/11063
+2025-03-16 16:24:13,409 - CNCProductScraper - INFO - Data saved to extracted_data.json
+2025-03-16 16:24:13,409 - CNCProductScraper - INFO - Data saved to extracted_data.json
+2025-03-16 16:24:13,409 - CNCProductScraper - INFO - Extracted: TONGTAI SH4000P - https://cncmachines.com/tongtai-sh4000p-2024/l/11063
+2025-03-16 16:24:13,409 - CNCProductScraper - INFO - Extracted: TONGTAI SH4000P - https://cncmachines.com/tongtai-sh4000p-2024/l/11063
+2025-03-16 16:24:15,020 - CNCProductScraper - INFO - Navigating to https://cncmachines.com/haas-ec400-2023/l/12654
+2025-03-16 16:24:15,020 - CNCProductScraper - INFO - Navigating to https://cncmachines.com/haas-ec400-2023/l/12654
